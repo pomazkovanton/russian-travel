@@ -1,0 +1,13 @@
+.header__lang-link {
+  color: var(--main-color-light);
+  font-family: var(--main-font);
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 28px;
+  text-decoration: none;
+  transition: opacity 0.6s linear;
+}
+
+.header__lang-link:hover {
+  opacity: 0.4;
+}
