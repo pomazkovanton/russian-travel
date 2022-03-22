@@ -7,3 +7,9 @@
   text-align: left;
   text-transform: uppercase;
 }
+
+@media screen and (max-width: 768px) {
+  .lead__img-caption {
+    padding-left: 24px;
+  }
+}
