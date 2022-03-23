@@ -1,5 +1,5 @@
 .lead {
-  padding: 58px 48px 0;
+  padding-top: 58px;
   color: var(--main-color-light);
   font-family: var(--main-font);
   text-align: center;
@@ -8,12 +8,5 @@
 @media screen and (max-width: 1024px) {
   .lead {
     padding-top: 48px;
-  }
-}
-
-@media screen and (max-width: 768px) {
-  .lead {
-    padding-right: 0;
-    padding-left: 0;
   }
 }
