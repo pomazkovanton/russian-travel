@@ -1,8 +1,5 @@
 .lead {
-  min-width: 320px;
-  max-width: 984px;
   padding: 58px 48px 0;
-  margin: auto;
   color: var(--main-color-light);
   font-family: var(--main-font);
   text-align: center;
