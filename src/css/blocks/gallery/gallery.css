@@ -14,3 +14,11 @@
     padding-left: 24px;
   }
 }
+
+@media screen and (max-width: 320px) {
+  .gallery {
+    padding-top: 64px;
+    padding-right: 16px;
+    padding-left: 16px;
+  }
+}
