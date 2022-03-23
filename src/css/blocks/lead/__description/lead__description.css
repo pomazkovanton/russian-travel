@@ -10,6 +10,11 @@
   .lead__description {
     padding-right: 16px;
     padding-left: 16px;
+  }
+}
+
+@media screen and (max-width: 720px) {
+  .lead__description {
     font-size: calc(16px + (30 - 16) * ((100vw - 320px) / (768 - 320)));
     line-height: 1.25;
   }
