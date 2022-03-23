@@ -2,7 +2,6 @@
   display: flex;
   min-width: 320px;
   max-width: 1184px;
-  box-sizing: border-box;
   justify-content: space-between;
   padding-top: 28px;
   padding-right: 48px;
