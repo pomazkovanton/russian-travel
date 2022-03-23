@@ -1,0 +1,6 @@
+.intro {
+  max-width: 690px;
+  padding-top: 92px;
+  color: var(--main-color-light);
+  font-family: var(--main-font);
+}
