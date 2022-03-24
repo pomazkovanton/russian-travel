@@ -27,7 +27,14 @@
   }
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 368px) {
+  .place {
+    padding-right: 16px;
+    padding-left: 16px;
+  }
+}
+
+@media screen and (max-width: 352px) {
   .place {
     padding-top: 50px;
     padding-right: 0;
