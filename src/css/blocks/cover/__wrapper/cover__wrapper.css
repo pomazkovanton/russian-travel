@@ -1,0 +1,9 @@
+.cover__wrapper {
+  position: absolute;
+  z-index: 2;
+  top: 50%;
+  left: 50%;
+  max-width: 560px;
+  color: var(--main-color-light);
+  transform: translate(-50%, -50%);
+}

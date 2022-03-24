@@ -1,0 +1,8 @@
+.cover {
+  position: relative;
+  max-width: 1184px;
+  height: auto;
+  margin: auto;
+  font-family: var(--main-font);
+  text-align: center;
+}
