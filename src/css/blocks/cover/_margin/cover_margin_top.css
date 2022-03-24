@@ -1,3 +1,9 @@
 .cover_margin_top {
   margin-top: 92px;
 }
+
+@media screen and (max-width: 320px) {
+  .cover_margin_top {
+    margin-top: 66px;
+  }
+}
