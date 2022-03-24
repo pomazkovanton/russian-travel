@@ -12,6 +12,13 @@
   }
 }
 
+@media screen and (max-width: 890px) {
+  .place__title {
+    font-size: calc(42px + (72 - 42) * ((100vw - 768px) / (890 - 768)));
+    line-height: 1.05;
+  }
+}
+
 @media screen and (max-width: 768px) {
   .place__title {
     max-width: 330px;
