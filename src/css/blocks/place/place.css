@@ -11,3 +11,9 @@
 .place:first-child {
   padding-top: 92px;
 }
+
+@media screen and (max-width: 1024px) {
+  .place {
+    grid-column-gap: 32px;
+  }
+}
