@@ -26,3 +26,16 @@
     grid-column-gap: 28px;
   }
 }
+
+@media screen and (max-width: 320px) {
+  .place {
+    padding-top: 50px;
+    padding-right: 0;
+    padding-left: 0;
+    gap: 33px;
+  }
+
+  .place:first-child {
+    padding-top: 64px;
+  }
+}
