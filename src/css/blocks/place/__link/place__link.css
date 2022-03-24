@@ -5,4 +5,9 @@
   color: var(--main-color-light);
   font-size: 18px;
   line-height: 22px;
+  transition: opacity 0.6s linear;
+}
+
+.place__link:hover {
+  opacity: 0.8;
 }
