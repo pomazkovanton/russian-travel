@@ -30,3 +30,11 @@
 @import url('../blocks/gallery/gallery.css');
 @import url('../blocks/gallery/__list/gallery__list.css');
 @import url('../blocks/gallery/__img/gallery__img.css');
+
+@import url('../blocks/place/place.css');
+@import url('../blocks/place/__wrapper/place__wrapper.css');
+@import url('../blocks/place/__title/place__title.css');
+@import url('../blocks/place/__img/place__img.css');
+@import url('../blocks/place/__subtitle/place__subtitle.css');
+@import url('../blocks/place/__link/place__link.css');
+@import url('../blocks/place/__text/place__text.css');
